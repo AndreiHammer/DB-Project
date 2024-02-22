@@ -1,2 +1,2 @@
 # DB-Project
-Final project for Databases laboratory.
+Final project for Databases laboratory. Task: Create a Database that tackles an economical matter. Provide a schema, showcase the table relationships and display output for all the queries that you use. I created a database that manages a hotel and its employees. It contains 10 tables that represent the employees, departments, clients, services, bills etc. In the Word document attached, I have provided the description of the economical issue under debate, the table definition script, the ERD and all the queries used, followed by their output.
